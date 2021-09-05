@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-localizing-i18n';
+  minutes = 15;
+  gender = 'male';
 }
